@@ -51,7 +51,7 @@ Learning cellular dynamics from SCI-FATE2 using flow matching and generative mod
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ---
 
 ## Currently Learning
