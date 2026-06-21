@@ -57,6 +57,8 @@ Learning cellular dynamics from SCI-FATE2 using flow matching and generative mod
 
 ---
 
-## Contact
+## Connect With Me
 
-📧 p.chaitanya0412@gmail.com
+📧 Email: p.chaitanya0412@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/pcs2003
