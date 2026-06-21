@@ -1,5 +1,7 @@
 # Hi, I'm Chaitanya Sai Patibandla 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=800&lines=M.Sc.+Data+Science+Student;Machine+Learning+and+Generative+AI;Bioinformatics+Researcher;Working+on+TrajectoryFlow;SCI-FATE2+Cell+Dynamics+Modeling)](https://git.io/typing-svg)
+
 🎓 M.Sc. Data Science Student  
 🏫 University of Regensburg, Germany
 
