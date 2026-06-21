@@ -36,14 +36,7 @@ Learning cellular dynamics from SCI-FATE2 using flow matching and generative mod
 
 ---
 
-## Technologies
 
-- Python
-- PyTorch
-- TensorFlow
-- NumPy
-- Pandas
-- Git
 ## Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
