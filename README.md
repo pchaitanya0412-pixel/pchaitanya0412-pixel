@@ -6,9 +6,6 @@
 🏫 University of Regensburg, Germany
 ## GitHub Stats
 
-![Chaitanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=pchaitanya0412-pixel&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pchaitanya0412-pixel&layout=compact&theme=tokyonight)
 ---
 
 ## About Me
